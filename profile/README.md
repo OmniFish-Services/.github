@@ -7,3 +7,6 @@ To raise issues for the OmniFish Support team:
 To view your existing issues:
 
 * Open the [Issue Dashboard](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3AOmniFish-Services+sort%3Aupdated-desc)
+
+## Manuals
+* [How to use the OmniFish Portal](https://github.com/OmniFish-Services/.github/blob/main/docs/OmniFish%20Customer%20Portal%20guide.pdf)
